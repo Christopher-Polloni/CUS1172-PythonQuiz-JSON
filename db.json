@@ -1,5 +1,3 @@
-{
-  "PythonQuiz": [
         {
           "id": 1,
           "question_type": "MC",
@@ -279,4 +277,3 @@
           "correct_answer": "Placeholder Answer",
           "explanation": "Placeholder Explanation"
         }
-   }
