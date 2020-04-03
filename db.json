@@ -1,5 +1,286 @@
 {
-   "question_info": [     
+   "PythonQuiz": [     
+        {
+          "id": 1,
+          "question_type": "MC",
+          "question": "Placeholder Question",
+          "options": {
+            "optiona": "Option A",
+            "optionb": "Option B",
+            "optionc": "Option C",
+            "optiond": "Option D"
+          },
+          "correct_answer": "Placeholder Answer",
+          "explanation": "Placeholder Explanation"
+        },
+        
+        {
+          "id": 2,
+          "question_type": "MC",
+          "question": "Placeholder Question",
+          "options": {
+            "optiona": "Option A",
+            "optionb": "Option B",
+            "optionc": "Option C",
+            "optiond": "Option D"
+          },
+          "correct_answer": "Placeholder Answer",
+          "explanation": "Placeholder Explanation"
+        },
+        
+        {
+          "id":3,
+          "question_type": "MC",
+          "question": "Placeholder Question",
+          "options": {
+            "optiona": "Option A",
+            "optionb": "Option B",
+            "optionc": "Option C",
+            "optiond": "Option D"
+          },
+          "correct_answer": "Placeholder Answer",
+          "explanation": "Placeholder Explanation"
+        },
+        
+        {
+          "id":4,
+          "question_type": "MC",
+          "question": "Placeholder Question",
+          "options": {
+            "optiona": "Option A",
+            "optionb": "Option B",
+            "optionc": "Option C",
+            "optiond": "Option D"
+          },
+          "correct_answer": "Placeholder Answer",
+          "explanation": "Placeholder Explanation"
+        },
+        
+        {
+          "id":5,
+          "question_type": "MC",
+          "question": "Placeholder Question",
+          "options": {
+            "optiona": "Option A",
+            "optionb": "Option B",
+            "optionc": "Option C",
+            "optiond": "Option D"
+          },
+          "correct_answer": "Placeholder Answer",
+          "explanation": "Placeholder Explanation"
+        },
+        
+        {
+          "id":6,
+          "question_type": "MC",
+          "question": "Placeholder Question",
+          "options": {
+            "optiona": "Option A",
+            "optionb": "Option B",
+            "optionc": "Option C",
+            "optiond": "Option D"
+          },
+          "correct_answer": "Placeholder Answer",
+          "explanation": "Placeholder Explanation"
+        },
+        
+        {
+          "id":7,
+          "question_type": "MC",
+          "question": "Placeholder Question",
+          "options": {
+            "optiona": "Option A",
+            "optionb": "Option B",
+            "optionc": "Option C",
+            "optiond": "Option D"
+          },
+          "correct_answer": "Placeholder Answer",
+          "explanation": "Placeholder Explanation"
+        },
+        
+        {
+          "id":8,
+          "question_type": "MC",
+          "question": "Placeholder Question",
+          "options": {
+            "optiona": "Option A",
+            "optionb": "Option B",
+            "optionc": "Option C",
+            "optiond": "Option D"
+          },
+          "correct_answer": "Placeholder Answer",
+          "explanation": "Placeholder Explanation"
+        },
+        
+        {
+          "id":9,
+          "question_type": "MC",
+          "question": "Placeholder Question",
+          "options": {
+            "optiona": "Option A",
+            "optionb": "Option B",
+            "optionc": "Option C",
+            "optiond": "Option D"
+          },
+          "correct_answer": "Placeholder Answer",
+          "explanation": "Placeholder Explanation"
+        },
+        
+        {
+          "id":10,
+          "question_type": "MC",
+          "question": "Placeholder Question",
+          "options": {
+            "optiona": "Option A",
+            "optionb": "Option B",
+            "optionc": "Option C",
+            "optiond": "Option D"
+          },
+          "correct_answer": "Placeholder Answer",
+          "explanation": "Placeholder Explanation"
+        },
+        
+        {
+          "id":11,
+          "question_type": "MC",
+          "question": "Placeholder Question",
+          "options": {
+            "optiona": "Option A",
+            "optionb": "Option B",
+            "optionc": "Option C",
+            "optiond": "Option D"
+          },
+          "correct_answer": "Placeholder Answer",
+          "explanation": "Placeholder Explanation"
+        },
+        
+        {
+          "id":12,
+          "question_type": "MC",
+          "question": "Placeholder Question",
+          "options": {
+            "optiona": "Option A",
+            "optionb": "Option B",
+            "optionc": "Option C",
+            "optiond": "Option D"
+          },
+          "correct_answer": "Placeholder Answer",
+          "explanation": "Placeholder Explanation"
+        },
+        
+        {
+          "id":13,
+          "question_type": "MC",
+          "question": "Placeholder Question",
+          "options": {
+            "optiona": "Option A",
+            "optionb": "Option B",
+            "optionc": "Option C",
+            "optiond": "Option D"
+          },
+          "correct_answer": "Placeholder Answer",
+          "explanation": "Placeholder Explanation"
+        },
+        
+        {
+          "id":14,
+          "question_type": "MC",
+          "question": "Placeholder Question",
+          "options": {
+            "optiona": "Option A",
+            "optionb": "Option B",
+            "optionc": "Option C",
+            "optiond": "Option D"
+          },
+          "correct_answer": "Placeholder Answer",
+          "explanation": "Placeholder Explanation"
+        },
+        
+        {
+          "id":15,
+          "question_type": "MC",
+          "question": "Placeholder Question",
+          "options": {
+            "optiona": "Option A",
+            "optionb": "Option B",
+            "optionc": "Option C",
+            "optiond": "Option D"
+          },
+          "correct_answer": "Placeholder Answer",
+          "explanation": "Placeholder Explanation"
+        },
+        
+        {
+          "id":16,
+          "question_type": "MC",
+          "question": "Placeholder Question",
+          "options": {
+            "optiona": "Option A",
+            "optionb": "Option B",
+            "optionc": "Option C",
+            "optiond": "Option D"
+          },
+          "correct_answer": "Placeholder Answer",
+          "explanation": "Placeholder Explanation"
+        },
+        
+        {
+          "id":17,
+          "question_type": "MC",
+          "question": "Placeholder Question",
+          "options": {
+            "optiona": "Option A",
+            "optionb": "Option B",
+            "optionc": "Option C",
+            "optiond": "Option D"
+          },
+          "correct_answer": "Placeholder Answer",
+          "explanation": "Placeholder Explanation"
+        },
+        
+        {
+          "id":18,
+          "question_type": "MC",
+          "question": "Placeholder Question",
+          "options": {
+            "optiona": "Option A",
+            "optionb": "Option B",
+            "optionc": "Option C",
+            "optiond": "Option D"
+          },
+          "correct_answer": "Placeholder Answer",
+          "explanation": "Placeholder Explanation"
+        },
+        
+        {
+          "id":19,
+          "question_type": "MC",
+          "question": "Placeholder Question",
+          "options": {
+            "optiona": "Option A",
+            "optionb": "Option B",
+            "optionc": "Option C",
+            "optiond": "Option D"
+          },
+          "correct_answer": "Placeholder Answer",
+          "explanation": "Placeholder Explanation"
+        },
+        
+        {
+          "id":20,
+          "question_type": "MC",
+          "question": "Placeholder Question",
+          "options": {
+            "optiona": "Option A",
+            "optionb": "Option B",
+            "optionc": "Option C",
+            "optiond": "Option D"
+          },
+          "correct_answer": "Placeholder Answer",
+          "explanation": "Placeholder Explanation"
+        }
+     ],
+   "JavaScriptQuiz": [     
         {
           "id": 1,
           "question_type": "MC",
