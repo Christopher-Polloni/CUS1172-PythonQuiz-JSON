@@ -3,35 +3,35 @@
         {
           "id": 1,
           "question_type": "MC",
-          "question": "Placeholder Question",
+          "question": "Placeholder Question 1",
           "options": {
             "optiona": "Option A",
             "optionb": "Option B",
             "optionc": "Option C",
             "optiond": "Option D"
           },
-          "correct_answer": "Placeholder Answer",
+          "correct_answer": "Option C",
           "explanation": "Placeholder Explanation"
         },
         
         {
           "id": 2,
           "question_type": "MC",
-          "question": "Placeholder Question",
+          "question": "Placeholder Question 2",
           "options": {
             "optiona": "Option A",
             "optionb": "Option B",
             "optionc": "Option C",
             "optiond": "Option D"
           },
-          "correct_answer": "Placeholder Answer",
+          "correct_answer": "Option A",
           "explanation": "Placeholder Explanation"
         },
         
         {
           "id":3,
           "question_type": "MC",
-          "question": "Placeholder Question",
+          "question": "Placeholder Question 3",
           "options": {
             "optiona": "Option A",
             "optionb": "Option B",
@@ -45,7 +45,7 @@
         {
           "id":4,
           "question_type": "MC",
-          "question": "Placeholder Question",
+          "question": "Placeholder Question 4",
           "options": {
             "optiona": "Option A",
             "optionb": "Option B",
