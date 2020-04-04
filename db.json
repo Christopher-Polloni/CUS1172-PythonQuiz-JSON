@@ -5,10 +5,10 @@
           "question_type": "MC",
           "question": "Placeholder Question 1",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "abc",
+            "optionb": "123",
+            "optionc": "xyz",
+            "optiond": "789"
           },
           "correct_answer": "Option C",
           "explanation": "Placeholder Explanation"
