@@ -3,43 +3,43 @@
         {
           "id": 1,
           "question_type": "MC",
-          "question": "Placeholder Question 1",
+          "question": "What is the correct file extension for Python files?",
           "options": {
-            "optiona": "abc",
-            "optionb": "123",
-            "optionc": "xyz",
-            "optiond": "789"
+            "optiona": ".py",
+            "optionb": ".python",
+            "optionc": ".pyt",
+            "optiond": ".pt"
           },
-          "correct_answer": "xyz",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": ".py",
+          "explanation": "Python files must end with the extension '.py'"
         },
         
         {
           "id": 2,
           "question_type": "MC",
-          "question": "Placeholder Question 2",
+          "question": "How do you insert comments in Python code?",
           "options": {
-            "optiona": "fgh",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "#This is a comment",
+            "optionb": "/*This is a comment*/",
+            "optionc": "//This is a comment",
+            "optiond": "#This is a comment#"
           },
-          "correct_answer": "fgh",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "#This is a comment",
+          "explanation": "The character '#' starts a comment for the rest of that line in the python file"
         },
         
         {
           "id":3,
           "question_type": "MC",
-          "question": "Placeholder Question 3",
+          "question": "What is a correct syntax to output 'Hello World' in Python?",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "klk"
+            "optiona": "System.out.println('Hello World')",
+            "optionb": "printline('Hello World')",
+            "optionc": "print(Hello World)",
+            "optiond": "print('Hello World')"
           },
           "correct_answer": "klk",
-          "explanation": "Placeholder Explanation"
+          "explanation": "The 'print' keyword must be used and the words inside the parenthesis must be enclosed in single or double quotes to be printed exactly as show"
         },
         
         {
