@@ -19,12 +19,12 @@
           "question_type": "MC",
           "question": "Placeholder Question 2",
           "options": {
-            "optiona": "Option A",
+            "optiona": "fgh",
             "optionb": "Option B",
             "optionc": "Option C",
             "optiond": "Option D"
           },
-          "correct_answer": "Option A",
+          "correct_answer": "fgh",
           "explanation": "Placeholder Explanation"
         },
         
@@ -36,9 +36,9 @@
             "optiona": "Option A",
             "optionb": "Option B",
             "optionc": "Option C",
-            "optiond": "Option D"
+            "optiond": "klk"
           },
-          "correct_answer": "Placeholder Answer",
+          "correct_answer": "klk",
           "explanation": "Placeholder Explanation"
         },
         
