@@ -187,7 +187,7 @@
           "question": "What should be placed in the ____ in the following code?",
           "options": {
             "optiona": "if",
-            "optionb": "else if,
+            "optionb": "else if",
             "optionc": "elif",
             "optiond": "elseif"
           },
