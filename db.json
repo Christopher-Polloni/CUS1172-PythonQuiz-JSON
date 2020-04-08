@@ -212,7 +212,7 @@
             "optionb": "./Images/image6.jpg"
           },
           "correct_answer": "A",
-          "explanation": "Python uses indentation ot indicate a block of code"
+          "explanation": "Python uses indentation to indicate a block of code"
         },
         
         {
