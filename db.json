@@ -183,86 +183,68 @@
         
         {
           "id":15,
-          "question_type": "MC",
-          "question": "Placeholder Question 15",
+          "question_type": "Question Image",
+          "question": "What should be placed in the ____ in the following code?",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "if",
+            "optionb": "else if,
+            "optionc": "elif",
+            "optiond": "elseif"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "C",
+          "explanation": "The elif keyword is used in conditional statements and is short for else if"
         },
         
         {
           "id":16,
-          "question_type": "MC",
-          "question": "Placeholder Question 16",
-          "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
-          },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "question_type": "Fill In",
+          "question": "In order to use the datetime module, you need to ______ it",
+          "correct_answer": "import",
+          "explanation": "The import statement is used to use an existing module"
         },
         
         {
           "id":17,
-          "question_type": "MC",
-          "question": "Placeholder Question 17",
+          "question_type": "Images",
+          "question": "Select the code that will properly run",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "./Images/image5.jpg",
+            "optionb": "./Images/image6.jpg"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "A",
+          "explanation": "Python uses indentation ot indicate a block of code"
         },
         
         {
           "id":18,
-          "question_type": "MC",
-          "question": "Placeholder Question 18",
+          "question_type": "TF",
+          "question": "The output of print(10==9) is False",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "True",
+            "optionb": "False"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "A",
+          "explanation": "Python evaluates the expression and returns a boolean answer"
         },
         
         {
           "id":19,
-          "question_type": "MC",
-          "question": "Placeholder Question 19",
-          "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
-          },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "question_type": "Fill In",
+          "question": "The ________ statement stops the current iteration of a loop and continues with the next",
+          "correct_answer": "continue",
+          "explanation": "The continue statement stops the current iteration of a loop and contnues with the next"
         },
         
         {
           "id":20,
-          "question_type": "MC",
-          "question": "Placeholder Question 20",
+          "question_type": "TF",
+          "question": "A tuple is a collection which is ordered and changeable",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "True",
+            "optionb": "False"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "B",
+          "explanation": "A tuple is a collection which is ordered and unchangeable"
         }
      ]
 }
