@@ -185,6 +185,7 @@
           "id":15,
           "question_type": "Question Image",
           "question": "What should be placed in the ____ in the following code?",
+           "question_image": "./Images/image4.jpg",
           "options": {
             "optiona": "if",
             "optionb": "else if",
