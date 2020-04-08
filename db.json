@@ -65,13 +65,13 @@
         {
           "id":6,
           "question_type": "Images",
-          "question": "Placeholder Question 6",
+          "question": "Select the code that will properly output 'b is greater than a'",
           "options": {
             "optiona": "./Images/image1.jpg",
-            "optionb": "./Images/image1.jpg"
+            "optionb": "./Images/image2.jpg"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "B",
+          "explanation": "=> is invalid syntax. The proper syntax is >= for greater than or equal to"
         },
         
         {
