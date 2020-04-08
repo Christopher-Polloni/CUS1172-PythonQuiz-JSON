@@ -77,113 +77,108 @@
         {
           "id":7,
           "question_type": "MC",
-          "question": "Placeholder Question 7",
+          "question": "Which of the following is a dictionary in Python?",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "{'car', 'suv', 'truck'}",
+            "optionb": "{'name': 'car', 'color': 'black'}",
+            "optionc": "('car', 'suv', 'truck')",
+            "optiond": "['car', 'suv', 'truck']"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "B",
+          "explanation": "Adictionary contians key:value pairs"
         },
         
         {
           "id":8,
-          "question_type": "MC",
-          "question": "Placeholder Question 8",
+          "question_type": "TF",
+          "question": "['car', 'suv', 'truck'] is a list",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "True",
+            "optionb": "False"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "A",
+          "explanation": "Lists are defined within [ ]"
         },
         
         {
           "id":9,
           "question_type": "MC",
-          "question": "Placeholder Question 9",
+          "question": "Which operator is used for multiplication",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "+",
+            "optionb": "/",
+            "optionc": "*",
+            "optiond": "x"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "C",
+          "explanation": "The * should be used to indicate the multiplication of two numbers"
         },
         
         {
           "id":10,
-          "question_type": "MC",
-          "question": "Placeholder Question 10",
+          "question_type": "Question Image",
+          "question": "What is the output of the following code?",
+          "question_image": "./Images/image3.jpg",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "Option 10",
+            "optionb": "Option 11",
+            "optionc": "Option 12",
+            "optiond": "Option 13"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "D",
+          "explanation": "The length of a string includes spaces and special characters"
         },
         
         {
           "id":11,
           "question_type": "MC",
-          "question": "Placeholder Question 11",
+          "question": "Select the legal variable name",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "myvar",
+            "optionb": "myVar",
+            "optionc": "my_var",
+            "optiond": "All of the above"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "D",
+          "explanation": "myvar, myVar, and my_var are all legal variable names"
         },
         
         {
           "id":12,
-          "question_type": "MC",
-          "question": "Placeholder Question 12",
+          "question_type": "TF",
+          "question": "The variable names age, Age, and Age are all referring to the same variable",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "True",
+            "optionb": "False"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "B",
+          "explanation": "Variable names are case-sensitive"
         },
         
         {
           "id":13,
-          "question_type": "MC",
-          "question": "Placeholder Question 13",
+          "question_type": "TF",
+          "question": "My-var is a legal variable name",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "True",
+            "optionb": "False"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "B",
+          "explanation": "My-var is an illegal variable name because they can only contain alpha-numeric characters and underscores"
         },
         
         {
           "id":14,
           "question_type": "MC",
-          "question": "Placeholder Question 14",
+          "question": "Which python libraries can be used for data analysis and scientific computations?",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "Numpy",
+            "optionb": "Scipy",
+            "optionc": "Pandas",
+            "optiond": "All of the above"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "D",
+          "explanation": "Numpy, Scipy, and Pandas are all libraries that can be used for data analysis and scientific computations"
         },
         
         {
