@@ -64,13 +64,11 @@
         
         {
           "id":6,
-          "question_type": "MC",
+          "question_type": "Images",
           "question": "Placeholder Question 6",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "./Images/image1.jpg",
+            "optionb": "./Images/image1.jpg"
           },
           "correct_answer": "Placeholder Answer",
           "explanation": "Placeholder Explanation"
