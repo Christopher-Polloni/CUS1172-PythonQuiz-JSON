@@ -51,21 +51,15 @@
             "optionb": "False"
           },
           "correct_answer": "B",
-          "explanation": "Placeholder Explanation"
+          "explanation": "'def myFunction():' is the proper way to define a function in Python"
         },
         
         {
           "id":5,
-          "question_type": "MC",
-          "question": "Placeholder Question 5",
-          "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
-          },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "question_type": "Fill In",
+          "question": "The statement _____ is used to stop a loop in python",
+          "correct_answer": "break",
+          "explanation": "break is used to stop a loop in Python"
         },
         
         {
