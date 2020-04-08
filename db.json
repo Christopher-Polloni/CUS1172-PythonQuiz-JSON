@@ -10,7 +10,7 @@
             "optionc": ".pyt",
             "optiond": ".pt"
           },
-          "correct_answer": ".py",
+          "correct_answer": "A",
           "explanation": "Python files must end with the extension '.py'"
         },
         
@@ -24,7 +24,7 @@
             "optionc": "//This is a comment",
             "optiond": "#This is a comment#"
           },
-          "correct_answer": "#This is a comment",
+          "correct_answer": "A",
           "explanation": "The character '#' starts a comment for the rest of that line in the python file"
         },
         
@@ -38,7 +38,7 @@
             "optionc": "print(Hello World)",
             "optiond": "print('Hello World')"
           },
-          "correct_answer": "klk",
+          "correct_answer": "D",
           "explanation": "The 'print' keyword must be used and the words inside the parenthesis must be enclosed in single or double quotes to be printed exactly as show"
         },
         
