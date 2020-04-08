@@ -120,10 +120,10 @@
           "question": "What is the output of the following code?",
           "question_image": "./Images/image3.jpg",
           "options": {
-            "optiona": "Option 10",
-            "optionb": "Option 11",
-            "optionc": "Option 12",
-            "optiond": "Option 13"
+            "optiona": "10",
+            "optionb": "11",
+            "optionc": "12",
+            "optiond": "13"
           },
           "correct_answer": "D",
           "explanation": "The length of a string includes spaces and special characters"
