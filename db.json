@@ -44,15 +44,13 @@
         
         {
           "id":4,
-          "question_type": "MC",
-          "question": "Placeholder Question 4",
+          "question_type": "TF",
+          "question": "The proper way to define a function in Python is: 'function myFunction():'",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "True",
+            "optionb": "False"
           },
-          "correct_answer": "Placeholder Answer",
+          "correct_answer": "B",
           "explanation": "Placeholder Explanation"
         },
         
