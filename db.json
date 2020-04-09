@@ -85,7 +85,7 @@
             "optiond": "['car', 'suv', 'truck']"
           },
           "correct_answer": "B",
-          "explanation": "Adictionary contians key:value pairs"
+          "explanation": "A dictionary contians key:value pairs"
         },
         
         {
@@ -199,7 +199,7 @@
         {
           "id":16,
           "question_type": "Fill In",
-          "question": "In order to use the datetime module, you need to ______ it",
+          "question": "The statement _____ is used to enable the datetime module",
           "correct_answer": "import",
           "explanation": "The import statement is used to use an existing module"
         },
